@@ -8,10 +8,11 @@ body {
 h1{
     color: #2b2d42;
     text-align: left;
+    margin-bottom: 100px;
 }
 #super-heros{
     color: #457B9D;
-    margin-left: 4px;
+    margin-left: 8px;
 }
 p {
     color:  #8d99ae;
