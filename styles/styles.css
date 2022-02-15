@@ -1,42 +1,45 @@
-*{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+* {
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
 body {
-    background-color: #edf2f4;
+  background-color: #edf2f4;
 
 }
 
 
-h1{
-    color: #2b2d42;
-    text-align: center;
-    margin-top: 25px;
-    margin-bottom: 100px;
-  min
-}idth: 300px;
+h1 {
+  color: #2b2d42;
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 100px;
+  min-width: 300px;
 }
-#super-heros{
-    color: #457B9D;
+
+#super-heros {
+  color: #457B9D;
   font-size: 25px;
-    margin-top: 10px;
-    margin-left: 25px;
+  margin-top: 10px;
+  margin-left: 25px;
   min-width: 300px;
 }
-#text-hero{
-    color:  #66758F;
-    font-size: 18px;
+
+#text-hero {
+  color: #66758F;
+  font-size: 18px;
   margin: active;
-    margin-bottom: 17px;
-    margin-top: 10px;
-    margin-left: 25px;
+  margin-bottom: 17px;
+  margin-top: 10px;
+  margin-left: 25px;
   min-width: 300px;
 }
+
 img {
-    display: block;
-    margin: auto;
-    margin-bottom: 60px;
-    border-radius: 5px;
-    box-shadow:1px  2px 2px #212529;
+  display: block;
+  margin: auto;
+  margin-bottom: 60px;
+  border-radius: 5px;
+  box-shadow: 1px 2px 2px #212529;
   position: relative;
   min-width: 300px;
 }
