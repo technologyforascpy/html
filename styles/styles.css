@@ -1,43 +1,43 @@
 * {
-  font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 body {
-  background-color: #edf2f4;
+    background-color: #edf2f4;
 
 }
 
 
 h1 {
-  color: #2b2d42;
-  text-align: center;
-  margin-top: 25px;
-  margin-bottom: 100px;
-    margin: 25px 0px  100px 0px;
-  min-width: 300px;
+    color: #2b2d42;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 100px;
+    margin: 25px 0px 100px 0px;
+    min-width: 300px;
 }
 
 #super-heros {
-  color: #457B9D;
-  font-size: 25px;
-  min-width: 300px;
-  margin: 10px 5px  17px 5px;
+    color: #457B9D;
+    font-size: 25px;
+    min-width: 300px;
+    margin: 10px 5px 17px 5px;
 }
 
 #text-hero {
-  color: #66758F;
-  font-size: 18px;
-  margin: active;
-  min-width: 300px;
-  margin: 10px 5px  17px 5px;
+    color: #66758F;
+    font-size: 18px;
+    margin: active;
+    min-width: 300px;
+    margin: 10px 5px 17px 5px;
 }
 
 img {
-  display: block;
-  margin: auto;
-  margin-bottom: 60px;
-  border-radius: 5px;
-  box-shadow: 1px 2px 2px #212529;
-  position: relative;
-  min-width: 300px;;
-}
+    display: block;
+    margin: auto;
+    margin-bottom: 60px;
+    border-radius: 5px;
+    box-shadow: 1px 2px 2px #212529;
+    position: relative;
+    min-width: 300px;
+}}
