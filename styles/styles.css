@@ -17,7 +17,7 @@ h1 {
     min-width: 300px;
 }
 
-#super-heros {
+.super-heros {
     color: #457B9D;
     font-size: 25px;
     min-width: 300px;
@@ -40,4 +40,4 @@ img {
     box-shadow: 1px 2px 2px #212529;
     position: relative;
     min-width: 300px;
-}}
+}
