@@ -24,6 +24,7 @@ h1 {
     font-size: 25px;
     min-width: 300px;
     margin: 10px 5px 17px 5px;
+
 }
 
 #text-hero {
@@ -98,4 +99,14 @@ A:visited {
     -moz-border-radius: 5px;
     -ms-border-radius: 5px;
     -o-border-radius: 5px;
+    max-width: 300px;
+}
+
+.superhero-other {
+    text-align: center;
+    color: #457B9D;
+    font-size: 24px;
+    margin: active;
+    min-width: 300px;
+    margin: 10px 5px 17px 5px;
 }
