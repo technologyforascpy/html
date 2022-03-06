@@ -110,3 +110,29 @@ A:visited {
     min-width: 300px;
     margin: 10px 5px 17px 5px;
 }
+#idsupervillains-title {
+    color: #457B9D;
+    font-size: 25px;
+    min-width: 300px;
+    margin: 10px 5px 17px 5px;
+    margin-bottom: 90px;
+}
+
+.supervillains {
+    color: #457B9D;
+    font-size: 20px;
+    min-width: 300px;
+    margin: 10px 5px 17px 5px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+
+.footer {
+    color: #457B9D;
+    font-size: 20px;
+    min-width: 300px;
+    margin: 10px 5px 17px 5px;
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
