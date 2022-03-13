@@ -103,13 +103,14 @@ A:visited {
 }
 
 .superhero-other {
-    text-align: center;
     color: #457B9D;
-    font-size: 24px;
+    font-size: 18px;
     margin: active;
     min-width: 300px;
     margin: 10px 5px 17px 5px;
 }
+
+
 #idsupervillains-title {
     color: #457B9D;
     font-size: 25px;
@@ -128,11 +129,11 @@ A:visited {
 }
 
 .footer {
-    color: #457B9D;
-    font-size: 20px;
-    min-width: 300px;
-    margin: 10px 5px 17px 5px;
-    margin-top: 30px;
-    margin-left: 10px;
-    margin-bottom: 10px;
+    color: #457B9D !important;
+    font-size: 20px !important;
+    min-width: 300px !important;
+    margin-top: 40px !important;
+    margin-left: 0px !important;
+    margin-bottom: 40px !important;
+    margin-right: 0px !important;
 }
